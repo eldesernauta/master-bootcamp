@@ -16,12 +16,12 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
-    <li><a href="#ide-installation">Instalación del IDE</a></li>
+    <li><a href="#instalacion-del-ide">Instalación del IDE</a></li>
     <li><a href="#github">Cuenta de GitHub</a></li>      
-    <li><a href="#repository">Repositorio</a></li>
+    <li><a href="#repositorio">Repositorio</a></li>
     <li><a href="#docker-y-mongodb">Instalación y despliegue de Docker y MongoDB</a></li>
     <li><a href="#api-nodejs">API Node.js</a></li>
-    <li><a href="#deployment">Despliegue</a></li>
+    <li><a href="#despliegue">Despliegue</a></li>
   </ol>
 </details>
 
@@ -34,7 +34,7 @@
 
 Para este ejercicio dispuse de una máquina con Ubuntu 20.04 en la cual no tenía ninguna instalación para poder hacerlo paso a paso. 
 
-### Built With
+### Tecnologías:
 
 - [NodeJS](https://nodejs.org/es/)
 - [Express](https://expressjs.com/es/)
@@ -50,7 +50,7 @@ Ya contaba con una cuenta con la cual vengo trabajando hace un tiempo.<br>
 
 <!-- Repository -->
 
-## Repository
+## Repositorio
 
 Ruta a este repositorio:
 <a href="https://github.com/eldesernauta/master-bootcamp" target="_blank">https://github.com/eldesernauta/master-bootcamp</a>
