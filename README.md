@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <br />
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">
 
 
   <h3 align="center">Master Bootcamp</h3>
@@ -16,14 +16,10 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
-    <li>
-      <a href="#ide-installation">Instalación del IDE</a>
-      <ul>
-        <li><a href="#github">Cuenta de GitHub</a></li>
-      </ul>
-    </li>
+    <li><a href="#ide-installation">Instalación del IDE</a><li>
+    <li><a href="#github">Cuenta de GitHub</a></li>      
     <li><a href="#repository">Repositorio</a></li>
-    <li><a href="#docker-mongo">Instalación y despliegue de Docker y MongoDB</a></li>
+    <li><a href="#docker-y-mongodb">Instalación y despliegue de Docker y MongoDB</a></li>
     <li><a href="#api-nodejs">API Node.js</a></li>
     <li><a href="#deployment">Despliegue</a></li>
   </ol>
@@ -49,7 +45,7 @@ Para este ejercicio dispuse de una máquina con Ubuntu 20.04 en la cual no tení
 
 ## GitHub
 
-Ya contaba con una cuenta con la cual vengo trabajando hace un tiempo.
+Ya contaba con una cuenta con la cual vengo trabajando hace un tiempo.<br>
 <a href="https://github.com/eldesernauta" target="_blank">@eldesernauta</a>
 
 <!-- Repository -->
@@ -61,7 +57,7 @@ Ruta a este repositorio:
 
 <!-- docker-mongo -->
 
-## Instalación y despliegue de Docker y MongoDB
+## Docker y MongoDB
 
 Instalando Docker y MongoDB:
 
