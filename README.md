@@ -16,7 +16,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
-    <li><a href="#ide-installation">Instalación del IDE</a><li>
+    <li><a href="#ide-installation">Instalación del IDE</a></li>
     <li><a href="#github">Cuenta de GitHub</a></li>      
     <li><a href="#repository">Repositorio</a></li>
     <li><a href="#docker-y-mongodb">Instalación y despliegue de Docker y MongoDB</a></li>
