@@ -38,6 +38,8 @@ bower_components
 build/Release
 
 # Dependency directories
+*.sock
+.DS_Store
 node_modules/
 jspm_packages/
 
