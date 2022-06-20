@@ -1,13 +1,12 @@
 <!-- HEADER -->
 <br />
-<div>
-  <h3>Master Bootcamp</h3>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" align="center">
-  <p>
-    API Rest usando Node.js, Docker y MongoDB
-    -->
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+  <h3  align="center">Master Bootcamp</h3>
+  <p  align="center">
+    API Rest usando Node.js, Docker y MongoDB -->
   </p>
-</div>
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
