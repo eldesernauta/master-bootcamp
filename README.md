@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <br />
-<div style="display: flex; flex-direction: column; justify-content: center; display: none; width: 100%">
+<div>
   <h3>Master Bootcamp</h3>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width:30px; margin: auto;">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" align="center">
   <p>
     API Rest usando Node.js, Docker y MongoDB
     -->
