@@ -1,13 +1,13 @@
 <!-- HEADER -->
 <br />
-<p>
+<div style="display: flex; flex-direction: column; justify-content: center">
   <h3>Master Bootcamp</h3>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width:30px; margin: auto;">
   <p>
     API Rest usando Node.js, Docker y MongoDB
     -->
   </p>
-</p>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
