@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <br />
 <p>
-  <h3 align="center">Master Bootcamp</h3>
+  <h3>Master Bootcamp</h3>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width:30px; margin: auto;">
-  <p align="center">
+  <p>
     API Rest usando Node.js, Docker y MongoDB
     -->
   </p>
