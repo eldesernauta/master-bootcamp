@@ -1,11 +1,8 @@
 <!-- HEADER -->
 <br />
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">
-
-
   <h3 align="center">Master Bootcamp</h3>
-
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">
   <p align="center">
     API Rest usando Node.js, Docker y MongoDB
     -->
@@ -21,18 +18,14 @@
     <li><a href="#repositorio">Repositorio</a></li>
     <li><a href="#docker-y-mongodb">Instalación y despliegue de Docker y MongoDB</a></li>
     <li><a href="#api-nodejs">API Node.js</a></li>
-    <li><a href="#despliegue">Despliegue</a></li>
   </ol>
 </details>
 
 <!-- IDE Installation -->
 
-## IDE Installation
+## Instalación del IDE
 
-<!-- screenshot del IDE instalado -->
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
-Para este ejercicio dispuse de una máquina con Ubuntu 20.04 en la cual no tenía ninguna instalación para poder hacerlo paso a paso. 
+Ejercicio realizado con Visual Studio Code.
 
 ### Tecnologías:
 
@@ -45,7 +38,7 @@ Para este ejercicio dispuse de una máquina con Ubuntu 20.04 en la cual no tení
 
 ## GitHub
 
-Ya contaba con una cuenta con la cual vengo trabajando hace un tiempo.<br>
+Ya contaba con una cuenta con la cual vengo trabajando desde hace un tiempo.<br>
 <a href="https://github.com/eldesernauta" target="_blank">@eldesernauta</a>
 
 <!-- Repository -->
@@ -59,7 +52,20 @@ Ruta a este repositorio:
 
 ## Docker y MongoDB
 
-Instalando Docker y MongoDB:
+El proyecto se despliega en un contenedor Docker en el que están incluídas las imágenes de la API en Node.js y la base de datos en MongoDB.
+
+Para desplegar el contenedor es necesario correr los siguientes comandos:
+
+<ol>
+    <li>$ docker-compose build</li>
+    <li>$ docker-compose up</li>   
+</ol>
+
+En Linux:
+<ol>
+    <li>$ <span style="color:yellow">sudo</span> docker-compose build</li>
+    <li>$ <span style="color:yellow">sudo</span> docker-compose build</li>   
+</ol>
 
 <!-- api-node.js -->
 
@@ -67,5 +73,13 @@ Instalando Docker y MongoDB:
 
 Documentación de la API:
 
-<!-- deployment -->
-## Despliegue
+Esta API cuenta con 4 métodos conocidos como CRUD y tras desplegar en Docker corre en el puerto 3000 en la ruta /documents:
+
+<ol>
+    <li>GET: http://localhost:3000/documents para obtener todos los documentos</li>
+    <li>GET: http://localhost:3000/documents/#id para obtener un documento por su ID</li>
+    <li>POST: http://localhost:3000/documents/agregar para añadir un nuevo documento</li>
+    <li>PUT: http://localhost:3000/documents/update/#id para obtener y actualizar un documento por su ID</li>
+    <li>DELETE: http://localhost:3000/documents/#id para remover un documento por su ID</li>
+</ol>
+
