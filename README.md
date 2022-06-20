@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <h3 align="center">Master Bootcamp</h3>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width:30px; margin: auto;">
   <p align="center">
     API Rest usando Node.js, Docker y MongoDB
     -->
