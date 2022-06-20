@@ -62,8 +62,8 @@ Para desplegar el contenedor es necesario correr los siguientes comandos:
 
 En Linux:
 <ol>
-    <li>$ <span style="color:yellow">sudo</span> docker-compose build</li>
-    <li>$ <span style="color:yellow">sudo</span> docker-compose build</li>   
+    <li> $sudo docker-compose build</li>
+    <li> $sudo docker-compose up</li>   
 </ol>
 
 <!-- api-node.js -->
