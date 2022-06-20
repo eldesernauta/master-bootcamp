@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <br />
-<div style="display: flex; flex-direction: column; justify-content: center">
+<div style="display: flex; flex-direction: column; justify-content: center; display: none; width: 100%">
   <h3>Master Bootcamp</h3>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width:30px; margin: auto;">
   <p>
