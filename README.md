@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <br />
-<p align="center">
+<p>
   <h3 align="center">Master Bootcamp</h3>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width:30px; margin: auto;">
   <p align="center">
